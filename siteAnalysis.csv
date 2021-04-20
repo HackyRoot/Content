@@ -1,0 +1,42 @@
+site_id,site_name,site_category,area,account_number,solar_size,battery_size,usagepoint_no,authorization,total_load_data,type,unit
+1,Bidart Farms,Agriculture,"20400 Old River Road, Bakersfield, CA 93312",4356262,2916,1200,4169320768,0,4727347.32,usagepoint,kWh
+2,Richmond_King_Elementary,School,"2100 Maine AveRichmond, CA 94804",3797795818,90,110,3797795818,0,351106,SAID,kWh
+3,Maxum Energy,Industry,"5711 Florin Perkins Rd, Sacramento, CA 95828",7183563288,74.7,240,2405420459,0,359998.62,usagepoint,kWh
+4,Commonweal,Commercial,"451 Mesa Rd, Bolinas, CA 94924",1466125118,33.5,120,8499620509,0,93243.42,usagepoint,kWh
+5,Commonweal,Commercial,"451 Mesa Rd, Bolinas, CA 94924",1469000931,71.6,120,1944620471,0,171691,usagepoint,kWh
+6,George and Cynthia Miller Welness Centre,Commercial,"25 Allen St, Martinez, CA 94553",1578960978,77.8,120,2327420319,0,495972.4,usagepoint,kWh
+7,Marin Centre Exhibit Hall,Commercial,"10 Ave of the Flags, San Rafael, CA 94903",928829090,293.4,360,2691420766,0,395507.1,usagepoint,kWh
+8,Marin Centre Exhibit Hall,Commercial,"10 Ave of the Flags, San Rafael, CA 94903",929373451,14.4,120,3760635706,0,395507.1,usagepoint,kWh
+9,Marin City Community Centre,Commercial,"441 Drake Ave, Sausalito, CA 94965",515049219,12.6,120,5586020729,0,14727.87,usagepoint,kWh
+10,Pinole Library,Commercial,"2935 Pinole Valley Rd, Pinole, CA 94564",2475467162,67.7,120,9689320769,0,394119.4,usagepoint,kWh
+11,Sleepy Hollow Community Centre,Commercial,"1317 Butterfield Rd, San Anselmo, CA 94960",3547141199,35.6,120,8809520486,0,195900.2,usagepoint,kWh
+12,BriarPatch Grocery_shop site,Commercial,"86600 Avenue 54, Coachella, CA 92236",596385106,267.7,1200,596385106,0,425670.88,SAID,kWh
+13,Fresno_Fire HQ,Commercial,911 H st 93721,807680209,144,220,807680939,0,227684.55,SAID,kWh
+14,Fresno_FireStation 11,Commercial,5544 N fresno st. 93710,8970498690,64.8,110,8970498599,0,103682.4,SAID,kWh
+15,Fresno_FireStation 15,Commercial,5630 E arc circle DR 93727,2627599884,44.5,110,2627599550,0,71715,SAID,kWh
+16,Fresno_FireStation 16,Commercial,2510 N Polk ave 93722,7983383289,42.5,120,7983383061,0,73382.16,SAID,kWh
+17,Fresno_PD training centre F1,Commercial,6375 W central eve 93706,8095676110,1.8,0,8095676881,0,3102.944,SAID,kWh
+18,Fresno_PD training centre F2,Commercial,6375 W central eve 93706,12077347,26.6,110,12077324,0,44900.16,SAID,kWh
+19,Fresno_PD training centre F3,Commercial,6375 W central eve 93706,674644841,107.6,220,674644324,0,178966.96,SAID,kWh
+20,PaloAlto,Commercial,"6691 Clerk ave Newark, CA 94560",4761768845,268.6,550,4761768845,0,468117.53,SAID,kWh
+21,Silveira Dairy,Commercial,11277 Avenue 21 1/2 Chowchilla CA 93610,1009540708,399.6,360,7002856635,0,750688.92,SAID,kWh
+22,Silveira Dairy_Irrigation Well #2,Commercial,11277 Avenue 21 1/2 Chowchilla CA 93610,1009904899,32.4,120,7008204173,0,51324.48,SAID,kWh
+23,Silveira Dairy_Lagoon Separator Pump,Commercial,11277 Avenue 21 1/2 Chowchilla CA 93610,1010259309,18.7,120,7002856726,0,31728.03401,SAID,kWh
+24,Silveira Dairy_Irrigation Well #1,Commercial,11277 Avenue 21 1/2 Chowchilla CA 93610,1010267428,100.8,120,7009082919,0,160137.8,SAID,kWh
+25,J & D wilson dairy,Commercial,11720 W Mt Whitney ave riverdale CA 93656,435420646,1376.6,2400,3951795,0,2304435.04,Subscription_ID,kWh
+26,J & D wilson dairy,Commercial,11720 W Mt Whitney ave riverdale CA 93656,8957220313,327.6,720,8957220313,0,461906.52,Account_ID,kWh
+27,US Berkeley,Commercial,"2000 Carleton Street, Berkeley, CA 94720",2012162391,325.1,600,2012162391,0,541563.3005,Subscription_ID,kWh
+28,Stinson Beach,Commercial,"3785 Shoreline Hwy, Stinson Beach, CA",7845519622,3.9,120,7845519622,0,3902.22802,Account_ID,kWh
+29,Fresno_FireStation 9,Commercial,2340 N vagedes Ave 93705,8970498690,47.4,41.3,8970498006,0,78727.6008,SAID,kWh
+30,West Side Hulling,Commercial,"Frenk cox road, Westley CA 95387",5633615601,0,990,5633615601,0,1981958.7,SAID,kWh
+31,WCCUSD nutrition center,Commercial,"1108 Bissell Ave, richmond, CA 94801",9866366765,278.4,220,9866366765,0,761835.6,SAID,kWh
+32,Arvin_Veteran Building,Commercial,"414 4th Avenue, Arvin CA",8517683481,2.2,0,8517683481,0,3076.7,Account_ID,kWh
+33,Arvin_Adobe Building,Commercial,"141 North A Street, Arvin, CA",4601018108,17.3,120,4601018108,0,19336.2,Account_ID,kWh
+34,Arvin_Community Center,Commercial,"800 Walnut Drive, Arvin CA",1673746179,19.4,120,1673746179,0,23206.9,Account_ID,kWh
+35,Seven Oaks Country Club,Commercial,"2000 Grand Lakes Avenue, Bakersfield, CA 93311",1210106509,750,1200,1804920432,0,1485341.12,Service_UUID,kWh
+36,Seven Oaks Country Club,Commercial,"2250 Buera vista road, bakersfield, CA 93311",2088643335,742.8,1200,1204020313,0,798157.84,Service_UUID,kWh
+37,CA State Prison (jail),Commercial,"24900 CA-202, Tehachapi, CA 93561",3018446941,2360.9,6000,3018446941,0,42127694,Account_ID,kWh
+38,City of Artesia_Community Center,Commercial,CA 11870 169TH ST ARTESIA 90701,11870,29.5,120,11870,0,38137.7,Account_ID,kWh
+39,Artesia_City Hall,Commercial,CA 18747 CLARKDALE AVE ARTESIA 90701,18747,30.6,120,14747,0,84201.62,usagepoint,kWh
+40,Artesia_Community Center Artesia Park,Commercial,CA 18750 CLARKDALE AVE ARTESIA 90701,18750,114.8,120,18750,0,156830.83,Account_ID,kWh
+41,Artesia_Public Service Yard,Commercial,"17203 Corby Ave, Artesia, CA.",17203,10.1,120,17203,0,16895.2,Account_ID,kWh
